@@ -30,7 +30,7 @@ The dashboard spans **2 years of data (2023–2024)** across 10 datasets with ov
 ![Overview](./screenshots/Samsung_SupplyChain & Logistics/DashBoard/screenshots/Overview.png)
 
 ### Supplier Dashboard
-![Supplier](screenshots/Supplier.png)
+![Supplier](Samsung_SupplyChain&Logistics/DashBoard/screenshots/Supplier.png)
 
 ### Inventory & Production Dashboard
 ![Inventory](screenshots/Inventory&Production.png)
